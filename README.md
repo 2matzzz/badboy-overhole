@@ -14,6 +14,7 @@ Cannondale Bad Boy のオーバーホール計画・進行管理用リポジト�
 | [docs/shopping-guide.md](docs/shopping-guide.md) | 購入ガイド: 品目別の最安購入先、まとめ買いプラン、注文時チェックリスト |
 | [docs/tools.md](docs/tools.md) | 工具チェックリスト(定番品へのリンク付き、持ってる/買うの棚卸し) |
 | [docs/inspection-notes.md](docs/inspection-notes.md) | 現物確認・計測・交換判定の記録 |
+| [docs/custom-ideas.md](docs/custom-ideas.md) | 完了後のカスタム候補メモ(黒×ナチュラル素材のコーデ案) |
 
 ## ステップ概要
 
